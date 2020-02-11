@@ -2,7 +2,7 @@
 
 It's time to launch your first application
 
-`docker run nginx --name test`{{execute}}
+`docker run --name test nginx`{{execute}}
 
 Then press **^C** to escape.
 
@@ -22,7 +22,7 @@ Did you notice the image tag?
 
 Having the container in foreground is not very useful, let's start by turning it in background with the **-d** option:
 
-`docker run -d nginx --name nginx`{{execute}}
+`docker run -d --name nginx nginx `{{execute}}
 
 We have in return the hash of the container, which allows us to identify it.
 
