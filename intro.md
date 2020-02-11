@@ -1,1 +1,1 @@
-# This is the INTRO
+In this course you will learn how to do simple things simply

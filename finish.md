@@ -1,1 +1,1 @@
-# This is the finish
+Congratulations. You've created your first deployment in K8s! Enjoy life!
