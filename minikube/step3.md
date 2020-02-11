@@ -12,6 +12,6 @@ So simple! Verify your service:
 
 You can ensure that you have at least on pod as endpoint to your service withe the following command:
 
-`kubectl get ep nginx`
+`kubectl get ep nginx`{{execute}}
 
 Congratz!
