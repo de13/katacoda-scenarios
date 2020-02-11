@@ -1,0 +1,1 @@
+Il est important de pouvoir identifier les différents composants d'architecture, afin de pouvoir identifier les éventuels problèmes qui peuvent survenir.

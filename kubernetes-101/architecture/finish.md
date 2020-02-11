@@ -1,0 +1,1 @@
+Voilà, vous savez que vous avez maintenant un cluster Kubernetes prêt pour recevoir vos *workloads*.

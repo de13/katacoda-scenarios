@@ -1,0 +1,30 @@
+{
+  "title": "Kubernetes architecture",
+  "description": "Identifier les différents composants de Kubernetes",
+  "difficulty": "Beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Gérer la configration de kubectl",
+        "text": "step1.md"
+      },
+      {
+        "title": "Vérifier l'état de santé du cluster",
+        "text": "step2.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "kubernetes-cluster"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Data Essential Kubernetes 101",
+  "description": "Apprenez les bases de Kubernetes",
+  "courses": [
+    {
+      "course_id": "architecture",
+      "title": "Kubernetes architecture",
+      "description": "Identifier les différents composants de Kubernetes"
+    }
+  ]
+}
