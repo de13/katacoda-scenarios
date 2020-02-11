@@ -1,0 +1,11 @@
+{
+  "title": "minikube-crash-course",
+  "description": "some tutorials on minikube",
+  "courses": [
+    {
+      "course_id": "minikube",
+      "title": "Let's try minikube",
+      "description": "Your first deployment in minikune, just for fun"
+    }
+  ]
+}
