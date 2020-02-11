@@ -6,15 +6,15 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Install minikube",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Run your first deployment",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Expose your deployment",
         "text": "step3.md"
       }
     ],
