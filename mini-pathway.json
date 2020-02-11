@@ -1,6 +1,6 @@
 {
-  "title": "minikube-crash-course",
-  "description": "some tutorials on minikube",
+  "title": "Minikube crash courses",
+  "description": "Deep dive tutorials on minikube",
   "courses": [
     {
       "course_id": "minikube",
