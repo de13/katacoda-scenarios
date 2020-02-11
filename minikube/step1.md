@@ -10,6 +10,6 @@ It takes some time for the environment to be ready, take a coffee.
 
 Once it's done, execute:
 
-`minike status`{{execute}}
+`minikube status`{{execute}}
 
 That's it!
