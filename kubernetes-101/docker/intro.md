@@ -1,0 +1,1 @@
+Quelques rappels sur le fonctionnement de Docker, qui est régulièrement utilisé comme runtime pour Kubernetes.

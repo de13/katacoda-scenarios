@@ -3,6 +3,11 @@
   "description": "Apprenez les bases de Kubernetes",
   "courses": [
     {
+      "course_id": "docker",
+      "title": "Rappels sur Docker",
+      "description": "Quelques petits rappels sur Docker"
+    },
+    {
       "course_id": "architecture",
       "title": "Kubernetes architecture",
       "description": "Identifier les différents composants de Kubernetes"
