@@ -1,8 +1,8 @@
 {
-  "title": "a simple test",
-  "description": "a simple test to use Katacoda for training",
+  "title": "Let's try mminikube",
+  "description": "Your first deployment in minikune",
   "difficulty": "Beginner",
-  "time": "10 minutes",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
