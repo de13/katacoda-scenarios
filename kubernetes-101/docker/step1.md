@@ -76,7 +76,7 @@ Once the container is stopped, it is in exited state, and we know that we can de
 
 But we can use **docker containers prune** command to remove all exited containers at the same time.
 
-`docker containers prune`{{execute}}
+`docker container prune`{{execute}}
 
 The image, meanwhile, remained intact:
 
