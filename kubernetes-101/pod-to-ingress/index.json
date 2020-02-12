@@ -7,7 +7,7 @@
     "steps": [
       {
         "title": "Step 1",
-        "courseData": "background.sh",
+        "courseData": "step1-background.sh",
         "text": "step1.md"
       },
       {
@@ -26,6 +26,7 @@
       "text": "finish.md"
     }
   },
+  "files": [],
   "environment": {
     "uilayout": "terminal"
   },
