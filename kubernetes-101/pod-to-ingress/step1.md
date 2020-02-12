@@ -13,15 +13,15 @@ spec:
     image: nginx
 ```{{copy}}
 
-`nano pod.yaml`{{execute}}
+`vi pod.yaml`{{execute}}
+
+Press <kbd>i</kbd> to switch to `insert mode`.
 
 Paste the code, then execute:
 
-<kbd>Ctrl</kbd>+<kbd>x</kbd>
+<kbd>ESC</kbd>
 
-<kbd>Y</kbd>
-
-<kbd>Enter</kbd>
+To escape the `insert mode` and then <kbd>:x</kbd> to save the file.
 
 As we have seen, `apiVersion` is the API version of the resource we want. The Kind is obviously `Pod`. The only metadata we give him is his `name` (but it's mandatory). Finally, comes the description of the container, at least his `name`, and the `image` he will use.
 
