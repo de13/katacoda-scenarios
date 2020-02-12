@@ -1,0 +1,1 @@
+Il est temps de se jeter à l'eau et de créer nos premières ressources dans Kubernetes.

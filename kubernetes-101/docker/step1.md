@@ -4,7 +4,9 @@ It's time to launch your first application
 
 `docker run --name test nginx`{{execute}}
 
-Then press **^C** to escape.
+Then press <kbd>Ctrl</kbd>+<kbd>C</kbd> to escape:
+
+`Crtl+C`{{execute interrupt}}
 
 ### What has happened?
 

@@ -11,6 +11,11 @@
       "course_id": "architecture",
       "title": "Kubernetes architecture",
       "description": "Identifier les différents composants de Kubernetes"
+    },
+    {
+      "course_id": "pod-to-ingress",
+      "title": "From Pods to Ingress",
+      "description": "Create your first resources in Kubernetes"
     }
   ]
 }
