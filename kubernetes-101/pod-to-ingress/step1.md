@@ -23,8 +23,6 @@ Paste the code, then execute:
 
 <kbd>ESC</kbd>
 
-`esc`{{execute interrupt}}
-
 To escape the `insert mode` and then <kbd>:x</kbd> to save the file.
 
 `:x`{{execute}}
