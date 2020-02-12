@@ -1,12 +1,12 @@
-Commençons par préparer notre environnement :
+Commençons par vérifier que notre environnement est prêt :
 
 `launch.sh`{{execute}}
 
-La commande **kubectl** vous permet d'interagir avec L'API Kubernetes. Sa  configuration se trouve dans le fichier `~/.kube/config`.
+La commande **kubectl** vous permet d'interagir avec L'API de Kubernetes. Sa  configuration se trouve dans le fichier `~/.kube/config`.
 
-`cat ~/.kube/config`{{execute}}
+`ls ~/.kube/config`{{execute}}
 
-Il n'est généralement jamais nécessaire d'éditer manuellement cette configuration (c'est d'ailleurs un grosse source d'erreur).
+Il n'est généralement pas recommandé d'éditer manuellement cette configuration (c'est d'ailleurs source d'erreur).
 
 Pour interagir avec votre configuration, préférez utiliser la commande **kubectl config**:
 
