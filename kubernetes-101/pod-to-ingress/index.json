@@ -7,7 +7,6 @@
     "steps": [
       {
         "title": "Step 1",
-        "courseData": "step1-background.sh",
         "text": "step1.md"
       },
       {
@@ -19,7 +18,14 @@
         "text": "step3.md"
       }
     ],
+    "assets": {
+      "host01": [
+          {"file": "wait.sh", "target": "/usr/local/bin/", "chmod": "+x"}
+      ]
+    },
     "intro": {
+      "courseData": "background.sh",
+      "code": "foreground.sh",
       "text": "intro.md"
     },
     "finish": {
